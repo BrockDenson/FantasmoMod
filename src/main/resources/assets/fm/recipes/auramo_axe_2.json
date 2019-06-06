@@ -1,0 +1,29 @@
+{
+    "type": "minecraft:crafting_shaped",
+    
+    "pattern":
+    [
+        "FF ",
+        "FS ",
+        " S "
+    ],
+    
+    "key":
+    {
+        "F":
+        {
+            "item": "fm:auramo_ingot"
+        },
+        
+        "S":
+        {
+            "item": "fm:auramo_stick"
+        }
+    },
+    
+    "result":
+    {
+        "item": "fm:auramo_axe",
+        "count": 1
+    }
+}

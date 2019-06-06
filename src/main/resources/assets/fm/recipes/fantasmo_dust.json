@@ -1,0 +1,18 @@
+{ 
+    "type": "minecraft:crafting_shapeless",
+
+    "ingredients": 
+    [
+
+    {
+      "item": "fm:fantasmo_ingot"
+    }
+    
+    ],
+
+    "result": 
+    {
+        "item": "fm:fantasmo_dust",
+        "count": 9
+    }
+}

@@ -1,0 +1,38 @@
+
+//Items
+item.fantasmo_stick.name=Fantasmo Stick
+item.vintreamo_stick.name=Vintreamo Stick
+item.auramo_stick.name=Auramo Stick
+item.fantasmo_feather.name=Fantasmo Feather
+item.fantasmo_flint.name=Fantasmo Flint
+item.fantasmo_ingot.name=Fantasmo Ingot
+item.fantasmo_dust.name=Fantasmo Dust
+item.vintreamo_ingot.name=Vintreamo Ingot
+item.vintreamo_dust.name=Vintreamo Dust
+item.auramo_ingot.name=Auramo Ingot
+item.auramo_dust.name=Auramo Dust
+
+//Blocks
+tile.fantasmo_block.name=Block of Fantasmo
+tile.vintreamo_block.name=Block of Vintreamo
+tile.auramo_block.name=Block of Auramo
+tile.auramo_ore.name=Auramore
+tile.fantasmo_ore.name=Fantasmore
+tile.vintreamo_ore.name=Vintreamore
+
+//Tools
+item.fantasmo_sword.name=Fantasmo Sword
+item.vintreamo_sword.name=Vintreamo Sword
+item.auramo_sword.name=Auramo Sword
+item.fantasmo_pickaxe.name=Fantasmo Pickaxe
+item.vintreamo_pickaxe.name=Vintreamo Pickaxe
+item.auramo_pickaxe.name=Auramo Pickaxe
+item.fantasmo_shovel.name=Fantasmo Shovel
+item.vintreamo_shovel.name=Vintreamo Shovel
+item.auramo_shovel.name=Auramo Shovel
+item.fantasmo_axe.name=Fantasmo Axe
+item.vintreamo_axe.name=Vintreamo Axe
+item.auramo_axe.name=Auramo Axe
+item.fantasmo_hoe.name=Fantasmo Hoe
+item.vintreamo_hoe.name=Vintreamo Hoe
+item.auramo_hoe.name=Auramo Hoe

@@ -1,0 +1,18 @@
+{ 
+    "type": "minecraft:crafting_shapeless",
+
+    "ingredients": 
+    [
+
+    {
+      "item": "fm:auramo_ingot"
+    }
+    
+    ],
+
+    "result": 
+    {
+        "item": "fm:auramo_dust",
+        "count": 9
+    }
+}

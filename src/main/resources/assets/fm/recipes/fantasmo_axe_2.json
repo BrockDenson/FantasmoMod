@@ -1,0 +1,29 @@
+{
+    "type": "minecraft:crafting_shaped",
+    
+    "pattern":
+    [
+        " FF",
+        " SF",
+        " S "
+    ],
+    
+    "key":
+    {
+        "F":
+        {
+            "item": "fm:fantasmo_ingot"
+        },
+        
+        "S":
+        {
+            "item": "fm:fantasmo_stick"
+        }
+    },
+    
+    "result":
+    {
+        "item": "fm:fantasmo_axe",
+        "count": 1
+    }
+}

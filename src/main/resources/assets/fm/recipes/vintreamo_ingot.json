@@ -1,0 +1,24 @@
+{
+    "type": "minecraft:crafting_shaped",
+    
+    "pattern":
+    [
+        "FFF",
+        "FFF",
+        "FFF"
+    ],
+    
+    "key":
+    {
+        "F":
+        {
+            "item": "fm:vintreamo_dust"
+        }
+    },
+    
+    "result":
+    {
+        "item": "fm:vintreamo_ingot",
+        "count": 1
+    }
+}

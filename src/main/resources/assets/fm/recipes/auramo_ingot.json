@@ -1,0 +1,24 @@
+{
+    "type": "minecraft:crafting_shaped",
+    
+    "pattern":
+    [
+        "FFF",
+        "FFF",
+        "FFF"
+    ],
+    
+    "key":
+    {
+        "F":
+        {
+            "item": "fm:auramo_dust"
+        }
+    },
+    
+    "result":
+    {
+        "item": "fm:auramo_ingot",
+        "count": 1
+    }
+}

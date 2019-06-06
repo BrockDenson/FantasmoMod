@@ -1,0 +1,29 @@
+{
+    "type": "minecraft:crafting_shaped",
+    
+    "pattern":
+    [
+        " F ",
+        "FSF",
+        " F "
+    ],
+    
+    "key":
+    {
+        "F":
+        {
+            "item": "fm:vintreamo_dust"
+        },
+        
+        "S":
+        {
+            "item": "minecraft:stick"
+        }
+    },
+    
+    "result":
+    {
+        "item": "fm:vintreamo_stick",
+        "count": 1
+    }
+}

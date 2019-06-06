@@ -1,0 +1,29 @@
+{
+    "type": "minecraft:crafting_shaped",
+    
+    "pattern":
+    [
+        " F ",
+        " F ",
+        " S "
+    ],
+    
+    "key":
+    {
+        "F":
+        {
+            "item": "fm:vintreamo_ingot"
+        },
+        
+        "S":
+        {
+            "item": "fm:vintreamo_stick"
+        }
+    },
+    
+    "result":
+    {
+        "item": "fm:vintreamo_sword",
+        "count": 1
+    }
+}

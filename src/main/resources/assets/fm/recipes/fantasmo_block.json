@@ -1,0 +1,24 @@
+{
+    "type": "minecraft:crafting_shaped",
+    
+    "pattern":
+    [
+        "FFF",
+        "FFF",
+        "FFF"
+    ],
+    
+    "key":
+    {
+        "F":
+        {
+            "item": "fm:fantasmo_ingot"
+        }
+    },
+    
+    "result":
+    {
+        "item": "fm:fantasmo_block",
+        "count": 1
+    }
+}
